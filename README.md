@@ -67,7 +67,8 @@ Olist generated R$13.5M in revenue across 98,199 orders from 94,983 unique custo
 - Customers in Roraima (RR) and Paraíba (PB) paid R$43, nearly three times as much.
 - The states with the cheapest shipping are also where our sales are highest.
 
-<img width="800" alt="page2_customers_shipping" src="https://github.com/user-attachments/assets/6acaf33b-a650-4211-b4d1-0251b6fbc847" />
+<img width="800" alt="page2_customers_shipping" src="https://github.com/user-attachments/assets/de6c6b6d-1bf6-4f82-bbc2-190eb4299d29" />
+
 
 
 ## 5. Recommendations
